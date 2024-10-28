@@ -4,13 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-matplotlib = "*"
-numpy = "*"
 python-dotenv = "*"
 requests = "*"
-
-[dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.11"
